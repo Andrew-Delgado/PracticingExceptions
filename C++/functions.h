@@ -20,6 +20,7 @@ class Person {
         void method1();
         void method2();
         void method3();
+        void method4();
         
         // you only need to add friend to the header file
         friend ostream& operator<<(ostream&, const Person&);

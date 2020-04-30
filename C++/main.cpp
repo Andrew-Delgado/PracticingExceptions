@@ -11,5 +11,5 @@ int main(){
 
     cout << p1 << endl;
 
-    p1.method1();
+    p1.method4();
 }
