@@ -62,7 +62,7 @@ void Person::method2(){
     }
 }
 
-// Default catch block
+// Default catch-all block
 void Person::method3(){
     try{
         int num1;

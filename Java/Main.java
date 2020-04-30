@@ -17,8 +17,7 @@ public class Main{
     static void method1(){
 
         try {
-            int [] x = {1,2,3,4,5};
-
+            int x[] = {1,2,3,4,5};
             int y = x[6];
 
         } catch (ArrayIndexOutOfBoundsException e) {
