@@ -10,4 +10,6 @@ int main(){
     cout << p1.toString() << endl;
 
     cout << p1 << endl;
+
+    p1.method1();
 }
